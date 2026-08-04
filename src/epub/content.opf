@@ -44,7 +44,7 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Private Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
-		<dc:abstract>A mysterious lawyer shows up in a town, opens a practice, and starts a newspaper.</dc:abstract>
+		<meta property="schema:abstract">A mysterious lawyer shows up in a town, opens a practice, and starts a newspaper.</meta>
 		<dc:description>
 			&lt;p&gt;Besançon has no use for strangers, at least until the lawyer Albert Savaron shows up. Before anyone realizes it, he’s won several cases—including a prominent one for the local diocese—and started a newspaper. Suddenly his name is on everyone’s lips, and much of the discussion revolves around why this mysterious lawyer has come to their small town.&lt;/p&gt;
 			&lt;p&gt;After reading a novella serialized in his newspaper and intuiting that it’s perhaps at least somewhat autobiographical, the daughter of the most prominent woman in Besançon determines that she must penetrate Albert’s mystery. What follows is vintage &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac&lt;/a&gt;, where the best-laid plans rarely work out as intended.&lt;/p&gt;
